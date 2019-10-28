@@ -102,3 +102,18 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# misc
+*.aux
+*.bbl
+*.blg
+*.DS_Store
+*.dSYM
+*.dvi
+*.log
+*.o
+*.out
+*.pdf
+*.pdfsync
+*.pyc
+*.synctex.gz
