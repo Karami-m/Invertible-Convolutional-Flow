@@ -117,3 +117,11 @@ venv.bak/
 *.pdfsync
 *.pyc
 *.synctex.gz
+.idea/
+
+data/*
+snapshots
+exp
+expD
+logs
+logsD
